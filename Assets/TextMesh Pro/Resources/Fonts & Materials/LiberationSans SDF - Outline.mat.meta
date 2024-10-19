@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 79459efec17a4d00a321bdcc27bbc385
+timeCreated: 1484172856
+<<<<<<< HEAD
+<<<<<<< HEAD
+licenseType: Store
+=======
+licenseType: Pro
+>>>>>>> feature/MapDesign
+=======
+licenseType: Pro
+=======
+licenseType: Store
+>>>>>>> feature/ItemStore
+>>>>>>> feature/MapDesign
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

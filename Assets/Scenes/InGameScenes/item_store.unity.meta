@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Layer Lab/item_store.unity.meta
+guid: ecc6032a3df15364a95d46ad9f3fed2b
+========
+guid: 926dc1b6e87fe4244bfda2fb454485a0
+>>>>>>>> feature/MapDesign:Assets/MapDesign.unity.meta
+=======
+<<<<<<<< HEAD:Assets/MapDesign.unity.meta
+guid: ec1c778a53904408596fe85ecae2aa98
+========
+guid: ecc6032a3df15364a95d46ad9f3fed2b
+>>>>>>>> feature/ItemStore:Assets/Layer Lab/item_store.unity.meta
+>>>>>>> feature/MapDesign
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

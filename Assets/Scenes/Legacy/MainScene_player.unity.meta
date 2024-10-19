@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/AR Sample.unity.meta
+guid: 7ed9e699898d60a43b9e791dd1abd7d6
+========
+guid: d96e0eefba2cf48fd9af672a1bc3ed41
+>>>>>>>> origin/feature/ItemStore:Assets/Scenes/MainScene.unity.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
